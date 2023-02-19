@@ -1,0 +1,6 @@
+name= input("what is your name ?: ")
+age= input(int("what is your age ?: "))
+status= input(" is this your first time ?: ")
+print("your name is" + name)
+print("your are" + str(age) )
+print("" + status)
